@@ -1,0 +1,22 @@
+{
+    "nama"   : "Nera Putri",
+    "tempat_lahir" : "Bandung",
+    "tanggal_lahir" : "2009-04-23",
+    "uang"  : "true",
+    "alamat" : {
+        "jalan"  : "Kp. Citamiang Kaler RT 01 Rw 06",
+        "desa"   : "Cangkuang",
+        "kecamatan" : "dayeuhkolot"
+    },
+    "hobi"  : [
+        "nonton",
+        "memasak",
+        "bermain"
+    ],
+    "kontak" : {
+        "email" : "neraputri06@gmail.com",
+        "whatsapp" : "089671305145",
+        "github"  : "Neraputri23",
+        "instagram" : "nraptrii04"
+    }
+}
