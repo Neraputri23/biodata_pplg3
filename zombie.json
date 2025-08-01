@@ -1,0 +1,56 @@
+[{
+    "Name"  : "Hypno-shroom",
+    "Almanac statistics"  : {
+        "Sun cost"  : "75",
+        "Recharge"  : "Slow",
+        "usage"     : "Single use, on contact",
+        "Special"   : "Makes a zombie fight for you"
+    },
+    "About"  : "Hypno-shroom is the 13th plant received and obtained after beating Level 2-5. As he is a nocturnal plant, Coffee Bean will be required to wake up Hypno-shroom on Day, Pool and Roof levels."  
+},
+
+{
+    "Name"   : "Puff-shroom",
+    "Almanac statistics"  : {
+        "Sun cost"  : "0",
+        "Rechange"  : "7.5",
+        "Damage"   : "20",
+        "Toughness"  : "300",
+        "Range"  : "3 tiles"
+    }
+},
+
+{
+    "Name"  : "Scaredy-shroom",
+    "Almanac statistics"  : {
+        "Sun cost"  : "25 sun",
+        "Rechange"  : "Fast",
+        "Damage"  : "Normal",
+        "Toughness" : "Normal",
+        "Special"  : "Stopp shooting when enemy is close"
+    }
+},
+
+{
+    "Name"  : "Fume-shroom",
+    "Almanac statistics"  : {
+        "Sun cost"  : "75",
+        "Rechange"  : "Fast",
+        "Damage"  : "Normal, penetrates shields",
+        "Toughness"  : "Normal",
+        "Range"  : "All zombies in a 1x4 area"
+    }
+},
+
+{
+    "Name"  : "Chomper",
+    "Almanac statistics"  : {
+        "Sun cost"  : "150",
+        "Rechange"  : "Fast",
+        "Damage"  : "Massive",
+        "Toughness"  : "Normal",
+        "Range"  : "Two tiles",
+        "Reload time" : "42 second",
+        "Special"  : "Long delay between chomps"
+    }
+}]
